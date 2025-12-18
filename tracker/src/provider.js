@@ -14,6 +14,7 @@ const serviceProviders = {
   "+90": "Turkcell",
   "+92": "Jazz Pakistan",
   "+234": "MTN Nigeria",
+  "+234": "AIRTEL Nigeria",
   "+254": "Safaricom Kenya",
   "+966": "STC Saudi Arabia",
   "+971": "Etisalat UAE",
@@ -49,6 +50,7 @@ const serviceProviders = {
   "+598": "Movistar Uruguay",
   "+52": "Movistar Mexico",
   "+57": "Claro Colombia",
+  
   // Add more service providers and country codes here
 };
 
